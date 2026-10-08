@@ -1,0 +1,9 @@
+# Build output - shipped as a GitHub release asset instead
+PortTray.exe
+*.pdb
+bin/
+obj/
+
+# Python
+__pycache__/
+*.py[cod]
